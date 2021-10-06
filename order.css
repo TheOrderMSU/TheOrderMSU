@@ -48,8 +48,8 @@ html {
 
   --blue: #0065bd;
   --link-color: #088488;
-  --link-color-hover: ;
-  --link-color-visited: ;
+  --link-color-hover: #000;
+  --link-color-visited:#666;
   --link-color-active: #088488;
 }
 
