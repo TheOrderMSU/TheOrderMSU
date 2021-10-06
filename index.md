@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
   <link rel=“stylesheet”  href="order.css">
 
@@ -30,4 +29,3 @@
 <p>Here you can find wiki entries and stories for our members the Jedi and the Sith factions.</p>
 
 </body>
-</html>
