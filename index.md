@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel=“stylesheet” type=“text/css” href="order.css">
+<link rel=“stylesheet”  href="order.css">
 
 </head>
 
