@@ -1,9 +1,9 @@
 <html>
 <head>
-<link rel=“stylesheet”  href="order.css">
+  <link rel=“stylesheet”  href="order.css">
 
 </head>
-
+<body>
 <h1> Welcome to the MSU Order Wiki </h1>
 
 <div class="nav">
@@ -28,5 +28,5 @@
 <h3> Hello there. </h3>
 <p>Here you can find wiki entries and stories for our members the Jedi and the Sith factions.</p>
 
-
+</body>
 </html>
