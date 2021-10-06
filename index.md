@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="/TheOrderMSU/assets/css/style.css?v=c0c1ffdeb7269c6988eaf15c9f086950ee032f03">
+<link rel="stylesheet" href="/TheOrderMSU/blob/gh-pages/order.css">
 </head>
 
 <h1> Welcome to the MSU Order Wiki </h1>
