@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://github.com/TheOrderMSU/TheOrderMSU/blob/c51e62c220bd17fe3b74718a9c3cfba8a6888272/order.css">
+<link rel="stylesheet" href="order.css">
 
 </head>
 
