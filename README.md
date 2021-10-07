@@ -1,4 +1,4 @@
-![Order logo small](OrderLogo_white-large.jpg)
+![Order logo large](https://github.com/TheOrderMSU/TheOrderMSU/blob/gh-pages/OrderLogo-black-large.jpg)
 
 > *Hello there!*
 >
