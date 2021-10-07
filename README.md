@@ -1,3 +1,5 @@
+![Order logo small](OrderLogo_white-large.jpg)
+
 > *Hello there!*
 >
 > -Obi-wan Kenobi
