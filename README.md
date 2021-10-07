@@ -2,7 +2,7 @@
 
 > *Hello there!*
 >
-> Obi-wan Kenobi
+> General Kenobi
 
 
 ### What is The Order?
