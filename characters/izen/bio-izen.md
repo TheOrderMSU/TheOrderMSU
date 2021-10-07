@@ -1,6 +1,6 @@
 ![image.jpg](image.jpg)
 
-**FirstName LastName**
+**Izen**
 
 
 | | BIOGRAPHICAL INFORMATION  |
