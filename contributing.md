@@ -1,33 +1,44 @@
-# Contributing
-
 Thank you for your interest in contributing to the Order Wiki project. Anyone in the MSU Order past or present may contribute to the wiki.
 
 ### How To Contribute
 
 For security and to prevent spam, please use one of the following ways to contribute.
 
-### I do not have a GitHub account.
+### No, I do not have a GitHub account.
+
 #### Process 1:
 
 - Write your wiki article using your word processing app of choice.
-- Open an ISSUES request.
-- Copy your article and paste it into the new Issue.
+- Using Discord, Facebook, email, or other method attach and send the file to a member of the wiki editing team.
+
+#### Process 2:
+*Preferred Method*
+- Write your article via an online document, ex. Google Docs.
+- Using Discord, Facebook, email, or other method send a link to your document to a member of the wiki editing team.
+
+### Yes, I have a GitHub account.
+
+#### Process 1:
+
+- Write your wiki article using your word processing app of choice.
+- Open an [ISSUES](https://github.com/TheOrderMSU/TheOrderMSU/issues) request.
+- **Option 1:** Copy your article and paste it into the new Issue.
+- **Option 2:** Attach your article as a .txt or .doc file.
 - Submit.
 
 #### Process 2:
 - Write your article via an online document, ex. Google Docs.
-- Open an ISSUES request.
+- Open an [ISSUES](https://github.com/TheOrderMSU/TheOrderMSU/issues) request.
 - Copy and Paste the link into the new Issue.
 - Submit
 
-### Yes, I have a GitHub account.
 #### Process 3:
 
 - Request to be a Collaborator.
 
-  This may be done via Discord, Facebook, email, or in person.
+  Via Discord, Facebook, email, or in person, let a member of the wiki editing team know your GitHub information and you will be added as a collaborator.
 
-  **You will need a GitHub account to be added as a Collaborator.**
+  **You must have a GitHub account to be added as a Collaborator.**
 
 # Writing Style
 
@@ -46,6 +57,4 @@ If you need assistance, there are many people who will gladly lend the assistanc
 
 1. Profanity. Any usage of profanity should be with the PG-13 guidelines and only used within a direct quote by a character.
 
-2. Violence & Gore. Please keep within the guidelines of what is shown within the movies and animated series. If you couldn't show it during afternoon cartoons, don't write it here.
-
-3. These stories are not your therapy.
+2. Violence & Gore. Please keep within the PG-13 guidelines of what is shown within the movies and animated series. If you couldn't show it during afternoon cartoons, don't write it here.
