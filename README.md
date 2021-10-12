@@ -13,7 +13,7 @@ We also have an active roleplay system to act out the stories we have created ar
 
 ### What is this place?
 
-Welcome to the GitHub repository for the MSU Order. Here you can access the wiki ( https://github.com/TheOrderMSU/TheOrderMSU/wiki ) to view the stories and biographical information for characters within the MSU Order universe. Our characters are created within all eras of the Legends timeline and our stories build off of the Star Wars Legends timeline, however we do incorporate the new timeline when appropriate.
+Welcome to the GitHub repository for the MSU Order. Here you can access the [wiki](https://github.com/TheOrderMSU/TheOrderMSU/wiki) to view the stories and biographical information for characters within the MSU Order universe. Our characters are created within all eras of the Legends timeline and our stories build off of the Star Wars Legends timeline, however we do incorporate the new timeline when appropriate.
 
 Wiki pages are written in Markdown. Character entries may be submitted through the Characters channel on Discord, through Facebook, or the Issues tab. Do *not* copy and paste entire biographies for this. Please submit links for a Google Doc or similar.
 
