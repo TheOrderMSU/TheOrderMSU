@@ -40,6 +40,6 @@ https://www.facebook.com/groups/451184151616536/
 The MSU Order is an official student organization at Morehead State University. The content herein does not represent the views and opinions of Morehead State University.
 
 The MSU Order and Morehead State University are not sponsored by or affiliated with Lucasfilm Ltd.
-Star Wars, its characters, costumes, and all associated items are the intellectual property of Lucasfilm. © 2018 Lucasfilm Ltd. & ™. All rights reserved.
+Star Wars, its characters, costumes, and all associated items are the intellectual property of Lucasfilm. © 2021 Lucasfilm Ltd. & ™. All rights reserved.
 
 All original characters are the property of their respective members of the MSU Order.
