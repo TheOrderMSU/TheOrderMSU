@@ -6,8 +6,6 @@ The Sith are split into several divisive groups and war among themselves and wit
 
 ***
 
-# Sith
-
 [Deus](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Sturg-Draco'Deus), (Sturg Draco'Deus)
 
 [Draeda Drekondas](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Draeda)

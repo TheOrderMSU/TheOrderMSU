@@ -1,20 +1,25 @@
 Thank you for your interest in contributing to the Order Wiki project. Anyone in the MSU Order past or present may contribute to the wiki.
 
+***
+
 ### How To Contribute
 
 For security and to prevent spam, please use one of the following ways to contribute.
+
+# Do you have a GitHub account?
 
 ### No, I do not have a GitHub account.
 
 #### Process 1:
 
-- Write your wiki article using your word processing app of choice.
-- Using Discord, Facebook, email, or other method attach and send the file to a member of the wiki editing team.
-
-#### Process 2:
 *Preferred Method*
 - Write your article via an online document, ex. Google Docs.
 - Using Discord, Facebook, email, or other method send a link to your document to a member of the wiki editing team.
+
+#### Process 2:
+
+- Write your wiki article using your word processing app of choice.
+- Using Discord, Facebook, email, or other method attach and send the file to a member of the wiki editing team.
 
 ### Yes, I have a GitHub account.
 
@@ -36,9 +41,11 @@ For security and to prevent spam, please use one of the following ways to contri
 
 - Request to be a Collaborator.
 
-  Via Discord, Facebook, email, or in person, let a member of the wiki editing team know your GitHub information and you will be added as a collaborator.
+  Message us via Discord, Facebook, email, or let a member of the wiki editing team know your GitHub information and you can be added as a collaborator.
 
-  **You must have a GitHub account to be added as a Collaborator.**
+**You must have a GitHub account to be added as a Collaborator.**
+
+***
 
 # Writing Style
 
@@ -49,7 +56,9 @@ For security and to prevent spam, please use one of the following ways to contri
 
 As the Order is university group, a certain amount of writing ability is expected. Please use complete sentences, correct spelling, punctuation, and proper paragraphs.
 
-If you need assistance, there are many people who will gladly lend the assistance with editing.
+If you need assistance, there are many people who will gladly lend assistance with editing.
+
+***
 
 # Guidelines
 
@@ -58,3 +67,21 @@ If you need assistance, there are many people who will gladly lend the assistanc
 1. Profanity. Any usage of profanity should be with the PG-13 guidelines and only used within a direct quote by a character.
 
 2. Violence & Gore. Please keep within the PG-13 guidelines of what is shown within the movies and animated series. If you couldn't show it during afternoon cartoons, don't write it here.
+
+***
+
+# Suggested Apps
+
+> Editor's note: These are the apps that I am most familiar with. Any writing app will do. Some just need additional conversion for the wiki. - Sigil
+
+- https://atom.io/ - Atom is a versatile and powerful text editor for a wide variety of coding languages.
+
+- https://docs.google.com/ - Google Docs. Online/offline editor. Always have access to your files with internet. Easily share docs with people. Sometimes page style requires extensive editing when converting to Markdown.
+
+- Microsoft Word - Available free to students. Powerful word processor. Sometimes page style requires extensive editing when converting to Markdown.
+
+- TextEdit - Bare bones Mac OS default text editor. Focus on writing rather than styling and formatting.
+
+- Notepad - Barebones Windows default text editor. Focus on writing rather than styling and formatting.
+
+***

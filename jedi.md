@@ -6,8 +6,6 @@ The Sith are split into several divisive groups and war among themselves and wit
 
 ***
 
-# Jedi
-
 [Aeryn Thall](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Aeryn-Thall-(Mugen)), redirect from Mugen.
 
 [Aksoren Ral](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Aksoren-Ral)
@@ -23,6 +21,8 @@ The Sith are split into several divisive groups and war among themselves and wit
 [Rhyme](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Rhyme)
 
 [Sigil Eldaki](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Sigil-Eldaki)
+
+[Xenodan](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Xenodan)
 
 [Yathel'con te D'mori](https://github.com/TheOrderMSU/TheOrderMSU/wiki/Yathel)
 
