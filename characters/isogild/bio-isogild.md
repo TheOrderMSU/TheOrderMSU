@@ -5,22 +5,22 @@
 
 | | BIOGRAPHICAL INFORMATION  |
 | --- | --- |
-| **Homeworld** |  - |
-| **Born:** | - |
+| **Homeworld** |  Arkania |
+| **Born:** | 1088, 18 BBY |
 | **Died:** | - |
 | | **PHYSICAL DESCRIPTION**  |
 | **Species:** | Arkanian |
 | **Gender:** | Male |
-| **Height:** | - |
-| **Mass:** | - |
-| **Hair color:** | - |
-| **Eye color:** | - |
-| **Skin color:** | - |
+| **Height:** | 6' 3" |
+| **Mass:** | 210 lbs |
+| **Hair color:** | White |
+| **Eye color:** | Yellow |
+| **Skin color:** | orange |
 | | **CHRONOLOGICAL AND POLITICAL AFFILIATIONS**  |
-| **Era(s):** | - |
-| **Affiliation:** | - |
-| **Master:** | - |
-| **Apprentice(s):** | - |
+| **Era(s):** | Republic, Modern |
+| **Affiliation:** | Arkanian Government, Abaddon, Sith |
+| **Master:** | Jinxtus, Shecolag, Astaroth, Vineon | Lore: Shecolag, Astaroth |
+| **Apprentice(s):** | Fenris |
 | | **FAMILY** |
 | **Father:** | - |
 | **Mother:** | - |
@@ -41,12 +41,15 @@ Isogild was taught the ways of the force as a Jedi youngling. He was given a mas
 
 ### Personality and Traits
 
-> Personality and Traits
-
+Isogild is difficult to maintain conversation with, as he often turns to aggression and rude comments. When entering battle he tends to enter a frenzy, laughing and calling on attention to himself as he charges down his foes. Very short temper.
 
 ### Powers and Abilities
 
-> Powers and Abilities
+Typical Force powers such as push, pull, choke.
+"Prophet" - Isogild occasionally recieves visions from which he recieves boons of some kind. In one vision he recieved a second lightsaber he named "Justice" and in another vision he received a mask that amplified specific abilities. The ability improved by the mask is his ability to force visions and hallucinations on other people. The mask allows the visions to physically affect their recipients should they believe they are real.
+
+### Quotes
+"Bye bye Grandmaster! See you soon!" Isogild, after forcing Grandmaster Delara, Battlemaster F'nix and Master Janas to retreat from battle.
 
 ***
 
